@@ -14,9 +14,6 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/*
- * Authors: Ashwin, Ashvinder
- */
 
 
 //MainUI implements the facade design pattern, singleton design pattern and MVC architecture
