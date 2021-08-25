@@ -17,9 +17,7 @@ import org.jfree.data.time.TimeSeries;
 import org.jfree.data.time.TimeSeriesCollection;
 import org.jfree.data.time.Year;
 
-/*
- * Authors: Ashvinder
- */
+
 
 
 //Class used to render scatter graphs to display on MainUI 
