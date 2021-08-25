@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+import java.util.List;
+
+/*
+ * Authors: Ashwin
+ */
+
+
+//Define Subject class used to implement observer design pattern 
+
+public abstract class Subject {
+	private List<Observer> observers = new ArrayList<>();
+	
+	public void attach(Observer observer) {
+		observers.add(observer);
+	}
+	
+	public void detach(Observer observer) {
+		observers.remove(observer);
+	}
+	
+	public void notifyObservers() {
+		for(Observer observer : observers) {
+			observer.update(this);
+		}
+	}
+}
