@@ -8,9 +8,7 @@ import java.util.Vector;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
-/*
- * Authors: Ashwin, Byron, Ashvinder
- */
+
 
 
 //Class handles making API calls when prompted by the Model class 
