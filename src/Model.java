@@ -2,9 +2,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Vector;
 
-/*
- * Authors: Ashwin, Ashvinder
- */
 
 
 //Model class implements logic required to call data processing instructions and generate required views for MainUI
