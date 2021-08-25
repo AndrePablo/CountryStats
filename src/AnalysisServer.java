@@ -2,9 +2,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Vector;
 
-/*
- * Authors: Ashwin, Byron, Ashvinder
- */
 
 //Class to determine what types of viewers are allowed for each analysis metric 
 
