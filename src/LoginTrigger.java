@@ -9,9 +9,6 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-/*
- * Authors: Pablo, Ashwin
- */
 
 
 //Class used to show login window to user and call authentication methods from LoginServer
