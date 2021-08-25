@@ -1,6 +1,3 @@
-/*
- * Authors: Ashwin
- */
 
 
 public interface Observer {
