@@ -7,9 +7,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-/*
- * Authors: Asvinder
- */
+
 
 
 //Class used to render reports to display on MainUI 
