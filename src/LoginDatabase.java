@@ -1,8 +1,6 @@
 import org.jasypt.util.text.BasicTextEncryptor;
 
-/*
- * Authors: Pablo, Ashwin
- */
+
 
 
 //Database to store all encrypted user information
