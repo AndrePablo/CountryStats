@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/*
- * Authors: Ashwin
- */
 
 
 //Define Subject class used to implement observer design pattern 
