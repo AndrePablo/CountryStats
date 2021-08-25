@@ -1,8 +1,6 @@
 //Define Viewer interface LineViewer, BarViewer, ScatterViewer, ReportViewer and PieViewer implement
 
-/*
- * Authors: Ashvinder
- */
+
 
 
 public interface Viewer 
