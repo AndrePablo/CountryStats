@@ -15,9 +15,7 @@ import org.jfree.chart.plot.CategoryPlot;
 import org.jfree.chart.renderer.category.BarRenderer;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-/*
- * Authors: Ashwin, Byron, Ashvinder
- */
+
 
 
 //Class used to render bar graphs to display on MainUI 
