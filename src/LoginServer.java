@@ -1,8 +1,6 @@
 import org.jasypt.util.text.BasicTextEncryptor;
 
-/*
- * Authors: Pablo, Ashwin
- */
+
 
 
 //LoginServer accesses the LoginDatabase when a user tries signing in
