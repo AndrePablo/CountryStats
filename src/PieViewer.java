@@ -10,9 +10,7 @@ import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.data.general.DefaultPieDataset;
 
-/*
- * Authors: Ashvinder
- */
+
 
 
 //Class used to render pie graphs to display on MainUI 
